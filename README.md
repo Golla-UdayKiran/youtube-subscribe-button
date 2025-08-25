@@ -1,3 +1,7 @@
+<h2>Resources</h2>
+<p>1. <a href="https://supersimple.dev/projects/dom">DOM Exercises</a></p>
+<p>2. <a href="https://supersimple.dev/projects/dom-with-css">DOM Exercises</a></p>
+
 # YouTube Subscribe Button
 
 <p><ins>Process for JavaScript</ins>
@@ -13,5 +17,13 @@ When we click the button,
 1. If the text is "Subscribe" => "Subscribed"
 
 2. Otherwise, change it back => "Subscribe"</p>
+
+<p><ins>One solution:</ins>
+
+When we click the button,
+
+1. Add a class
+
+2. This class will have different styles</p>
 
 <code>website</code>: https://golla-udaykiran.github.io/youtube-subscribe-button
